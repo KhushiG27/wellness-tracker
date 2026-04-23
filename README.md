@@ -1,4 +1,4 @@
-# 🌿 Wellness Tracker
+# 🌿 HabitPulse
 
 A lightweight, single-file wellness tracking app that runs entirely in the browser — no backend, no account required. All data is stored locally in `localStorage`.
 
@@ -21,8 +21,8 @@ A lightweight, single-file wellness tracking app that runs entirely in the brows
 No build step or dependencies required.
 
 ```bash
-git clone https://github.com/KhushiG27/wellness-tracker.git
-cd wellness-tracker
+git clone https://github.com/KhushiG27/HabitPulse.git
+cd HabitPulse
 ```
 
 Then open `index.html` in your browser — that's it.
@@ -46,7 +46,7 @@ npx serve .
 ## Project Structure
 
 ```
-wellness-tracker/
+HabitPulse/
 ├── index.html   # App markup + all JavaScript
 ├── style.css    # All styles including dark mode and responsive layout
 └── README.md
